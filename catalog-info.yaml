@@ -4,6 +4,7 @@ metadata:
   name: back1
   annotations:
     github.com/project-slug: rodrigosjhs/back1
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
