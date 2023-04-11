@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: back1
+  name: back2
   annotations:
     github.com/project-slug: rodrigosjhs/back1
     backstage.io/techdocs-ref: value
